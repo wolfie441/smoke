@@ -1,0 +1,135 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: "Patrick Hand"
+}
+
+.weed-img{
+  height: 200px;
+  width: 200px;
+}
+
+.top-container{
+  background-color: #C5D8A4;
+  padding-bottom: 30px;
+}
+
+.middle-container{
+  background-color: #F4FCD9;
+}
+
+.bottom-container{
+  height: 100px;
+  background-color: #BB9981;
+}
+
+.contact-us{
+  margin: 100px auto 0 auto;
+}
+
+.boys-img{
+  width: 250px;
+  margin: 75px 40px 75px 40px;
+}
+
+.our-team-sign{
+  padding-top: 100px;
+  margin: 0;
+}
+
+.who-we-are-sign{
+  float: left;
+  width: 30%;
+  margin-left: 50px;
+  font-size: 2rem;
+}
+
+.what-we-are-known-for-description{
+  margin-right: 50px;
+  font-size: 1.5rem;
+  padding-bottom: 100px;
+}
+
+.what-are-we-known-for-sign{
+  float: left;
+  width: 30%;
+  margin-left: 50px;
+  font-size: 2rem;
+  margin-bottom: 50px;
+}
+
+.who-we-are-description{
+  margin-right: 50px;
+  font-size: 1.5rem;
+}
+
+.contact-us-sign{
+  float: left;
+  width: 30%;
+  margin-left: 50px;
+  font-size: 2rem;
+}
+
+.contact-us-description{
+  margin-right: 50px;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+}
+
+.quote11{
+  font-family: "Hurricane";
+  font-size: 2rem;
+  margin: 100px auto 100px auto;
+}
+
+.breno-quote{
+  font-family: "Hurricane";
+  font-size: 2rem;
+  margin: 100px auto 100px auto;
+}
+
+.wody-quote{
+  font-family: "Hurricane";
+  font-size: 2rem;
+  margin: 100px auto 0 auto;
+  padding-bottom: 100px;
+}
+
+.dwbile-jpg{
+  margin: 200px auto 100px auto;
+  width: 100px;
+  height: 150px;
+}
+
+.copyright{
+  margin-bottom: 0;
+  position: absolute;
+  left: 20px;
+}
+
+.contact-button{
+  font-family: "Palette Mosaic";
+  font-size: 2rem;
+  color: black;
+}
+
+.contact-button:hover{
+  color: #F4FCD9;
+}
+
+h1{
+  font-family: "Palette Mosaic"
+}
+
+h2{
+  font-family: "Palette Mosaic"
+}
+
+hr{
+  border-style: solid none none;
+  height: 0;
+  width: 30%;
+  border-width: 5px;
+  margin: 100px auto 100px;
+}
